@@ -1,1 +1,1 @@
-# study-material
+# Study Material
