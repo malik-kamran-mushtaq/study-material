@@ -9,3 +9,9 @@ This repository is for the different study materials regarding Software Engineer
    2. Low level design
 3. DevOps
 4. Operating System
+5. DBMS
+6. Data Structures and Algorithms
+7. Open-source
+8. Deployment
+9. Cloud
+10. Interview preparation
